@@ -13,10 +13,10 @@ description: A Jekyll theme with sidebar for personal website and blog.
 avatar: "assets/img/avatar/avatar.png" # The avatar on sidebar
 
 # Social profiles
-email: monesh@domain.com
-github: elainefs
-linkedin: elaineferreiras
-instagram:
+email: moneshraj347@gmail.com
+github: https://github.com/Monesh11
+linkedin: http://linkedin.com/in/monesh-raj-208748278
+# instagram:
 mastodon:
   instance: mastodon.social
   user: elainefs
