@@ -10,7 +10,7 @@ timezone: America/Belem # Change to your timezone - https://kevinnovak.github.io
 title: Monesh Raj
 tagline: Developer
 description: A Jekyll theme with sidebar for personal website and blog. 
-avatar: "assets/img/avatar/avatar.png" # The avatar on sidebar
+avatar: "assets\img\avatar\pp-01.JPG" # The avatar on sidebar
 
 # Social profiles
 email: monesh@domain.com
